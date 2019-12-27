@@ -1,0 +1,25 @@
+{
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "eslint rules for qhsense projects",
+  "devDependencies": {},
+  "keywords": [
+    "lint",
+    "eslint"
+  ],
+  "license": "Apache-2.0",
+  "main": "./index.js",
+  "name": "eslint-config-qhsense",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "pre-commit": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lucas20190703-dev/eslint-config-qhsense.git"
+  },
+  "scripts": {},
+  "version": "1.0.0"
+}
